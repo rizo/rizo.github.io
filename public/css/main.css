@@ -1,0 +1,61 @@
+
+
+ul.social-icons {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul.social-icons li {
+  display: inline;
+}
+
+ul.social-icons li a {
+  font-size: 28px;
+  text-decoration: none;
+  padding-right: 24px;
+}
+
+.small-font {
+  font-size: 12px;
+}
+
+
+/* Overrides */
+
+.pagination {
+  display: none;
+}
+
+.sidebar-about a {
+  text-decoration: none;
+}
+
+.sidebar .lead {
+  font-size: 16px;
+}
+
+.content .page p.me img {
+  padding: 10px 20px 20px 0;
+  width: 300px;
+  float: left;
+}
+
+.page p.me {
+    position: relative;
+}
+
+.page p.me:hover:after{
+    content: attr(data-title);
+    position: absolute;
+    top:350px;
+    left:7px;
+    white-space: nowrap;
+    background: rgba(0, 0, 0, 0.75);
+    padding: 3px 7px;
+    color: #FFF;
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    z-index: 1000;
+}
+

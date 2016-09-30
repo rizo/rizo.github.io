@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Rizo</title>
+ <link href="http://odis.io/rizo/atom.xml" rel="self"/>
+ <link href="http://odis.io/rizo/"/>
+ <updated>2016-09-30T01:48:22+01:00</updated>
+ <id>http://odis.io/rizo</id>
+ <author>
+   <name>Rizo Isrof</name>
+   <email></email>
+ </author>
+
+ 
+
+</feed>

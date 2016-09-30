@@ -1,0 +1,30 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: false
+
+# Setup
+title:            'Rizo'
+tagline:          'Personal chronofile'
+description:      'Computer scientist and open source enthusiast. Love mountains, green tea, Unix philosophy and functional programming.'
+url:              http://odis.io/rizo
+baseurl:          /
+
+author:
+  name:           'Rizo Isrof'
+  url:            https://twitter.com/rizo_isrof
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
+
+gems: [jekyll-paginate,jekyll-gist]
+
+
