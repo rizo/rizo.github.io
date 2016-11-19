@@ -4,7 +4,7 @@ title: About Me
 ---
 
 <p class="me" data-titlex="By the way, that's my cat Alice">
-    <img src="/public/img/photo-1.jpg" alt="Wapple" />
+    <img src="/public/img/photo-3.jpg" alt="Wapple" />
 </p>
 
 

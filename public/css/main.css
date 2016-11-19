@@ -44,18 +44,3 @@ ul.social-icons li a {
     position: relative;
 }
 
-.page p.me:hover:after{
-    content: attr(data-title);
-    position: absolute;
-    top:350px;
-    left:7px;
-    white-space: nowrap;
-    background: rgba(0, 0, 0, 0.75);
-    padding: 3px 7px;
-    color: #FFF;
-    border-radius: 3px;
-    -moz-border-radius: 3px;
-    -webkit-border-radius: 3px;
-    z-index: 1000;
-}
-
