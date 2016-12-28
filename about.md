@@ -3,8 +3,8 @@ layout: page
 title: About Me
 ---
 
-<p class="me" data-titlex="By the way, that's my cat Alice">
-    <img src="/public/img/photo-3.jpg" alt="Wapple" />
+<p class="me">
+    <img src="/public/img/photo-4.jpg" alt="Wapple" />
 </p>
 
 
